@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoonasKemppainen
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html,css and javascript
+- 🌱 I’m currently learning css, html and javascript
 - 📫 How to reach me: karmakebu@gmail.com
 
 <!---
